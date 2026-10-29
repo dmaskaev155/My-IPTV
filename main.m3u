@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="MetalTV",Metal TV
+https://stream.metaltv.live/live/stream.m3u8
+#EXTINF:-1 group-title="MetalTV",Black Metal
+https://stream.metaltv.live/live/black/stream.m3u8
+#EXTINF:-1 group-title="MetalTV",Death Metal
+https://stream.metaltv.live/live/death/stream.m3u8
+#EXTINF:-1 group-title="MetalTV",Doom Metal
+https://stream.metaltv.live/live/doom/stream.m3u8
+#EXTINF:-1 group-title="MetalTV",Core
+https://stream.metaltv.live/live/core/stream.m3u8
+#EXTINF:-1 group-title="MetalTV",Progressive Metal
+https://stream.metaltv.live/live/progressive/stream.m3u8
+#EXTINF:-1 group-title="MetalTV",Thrash Metal
+https://stream.metaltv.live/live/thrash/stream.m3u8
+
+#EXTINF:-1 group-title="Рестлинг",TNA Wrestling Channel
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+
+#EXTINF:-1 group-title="Музыка 80-90-х",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
